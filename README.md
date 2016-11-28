@@ -28,3 +28,28 @@ FREE Utility to send emails from the command line. This program is a gift to our
 ```
 choco install mailer
 ```
+- HostsMan 
+
+HostsMan is a freeware application that lets you manage your Hosts file with ease.
+```
+choco install hostsman
+```
+
+- pcwRunAs
+
+pcwRunAs works similar to the Microsoft tool runas.exe but it also takes on the command line additional parameter password, allowing the program to start without additional inputs.
+```
+choco install pcwrunas
+```
+### Database
+
+#### SQL
+
+- rivets
+
+Rivet is a database migration/change management/versioning tool inspired by Ruby on Rails' Migrations. It creates and applies migration scripts for SQL Server databases. Migration scripts describe changes to make to your database, e.g. add a table, add a column, remove an index, etc. Migrations scripts should get added to your version control system so they can be packaged and deployed with your application's code.
+
+```
+choco install choco install rivet
+```
+
