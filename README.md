@@ -53,3 +53,16 @@ Rivet is a database migration/change management/versioning tool inspired by Ruby
 choco install choco install rivet
 ```
 
+## Video
+
+### Editor
+
+-OpenShot
+
+OpenShot Video Editor is a free, open-source video editor for Linux licensed under the GPL version 3.0.
+
+OpenShot can take your videos, photos, and music files and help you create the film you have always dreamed of. Easily add sub-titles, transitions, and effects, and then export your film to DVD, YouTube, Vimeo, Xbox 360, and many other common formats.
+
+```
+choco install openshot
+```
