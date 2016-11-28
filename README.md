@@ -19,3 +19,12 @@ Universal Extractor is a program designed to decompress and extract files from a
 ```
 choco install universal-extractor
 ```
+
+## mail
+
+- mailer
+
+FREE Utility to send emails from the command line. This program is a gift to our users. Directory Wizards offers no warranty for this product.
+```
+choco install mailer
+```
