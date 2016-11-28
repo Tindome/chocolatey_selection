@@ -57,7 +57,7 @@ choco install choco install rivet
 
 ### Editor
 
--OpenShot
+- OpenShot
 
 OpenShot Video Editor is a free, open-source video editor for Linux licensed under the GPL version 3.0.
 
